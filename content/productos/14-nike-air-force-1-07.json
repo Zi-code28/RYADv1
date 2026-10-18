@@ -2,11 +2,14 @@
   "n": "Nike Air Force 1 '07",
   "c": "Zapatillas",
   "w": "men",
-  "p": null,
-  "i": "zapatilla",
-  "h": 8,
+  "p": 1000,
+  "tag": "Prueba1",
+  "t": "9",
+  "k": "Arcoiris",
   "imgs": [
-    "images/16-nike-air-force-1-07-1.jpg",
-    "images/16-nike-air-force-1-07-2.jpg"
-  ]
+    "/images/__staging/main/__fileimages/16-nike-air-force-1-07-1.jpg",
+    "/images/__staging/main/__fileimages/16-nike-air-force-1-07-2.jpg"
+  ],
+  "i": "zapatilla",
+  "h": 8
 }
