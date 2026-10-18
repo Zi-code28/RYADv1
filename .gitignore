@@ -1,0 +1,20 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (contiene tokens secretos)
+.env
+.env.local
+
+# Panel de admin generado por TinaCMS (no se sube, se genera en el build)
+admin/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+
+tina/__generated__
