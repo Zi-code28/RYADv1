@@ -2,16 +2,18 @@
   "n": "Oakley Meta HSTN",
   "c": "Sunglasses",
   "w": "unisex",
-  "p": null,
-  "i": "lentes",
-  "h": 35,
-  "d": "Lentes inteligentes con cámara, audio y grabación de video. Lentes Transitions marrón.",
+  "p": 1000,
+  "tag": "Prueba3",
+  "t": "9",
   "k": "Curry claro",
+  "d": "Lentes inteligentes con cámara, audio y grabación de video. Lentes Transitions marrón.",
   "imgs": [
-    "images/13-oakley-meta-hstn-1.jpg",
-    "images/13-oakley-meta-hstn-2.jpg",
-    "images/13-oakley-meta-hstn-3.jpg",
-    "images/13-oakley-meta-hstn-4.jpg",
-    "images/13-oakley-meta-hstn-5.jpg"
-  ]
+    "/images/__staging/main/__fileimages/13-oakley-meta-hstn-1.jpg",
+    "/images/__staging/main/__fileimages/13-oakley-meta-hstn-2.jpg",
+    "/images/__staging/main/__fileimages/13-oakley-meta-hstn-3.jpg",
+    "/images/__staging/main/__fileimages/13-oakley-meta-hstn-4.jpg",
+    "/images/__staging/main/__fileimages/13-oakley-meta-hstn-5.jpg"
+  ],
+  "i": "lentes",
+  "h": 35
 }
