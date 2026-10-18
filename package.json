@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dev": "tinacms dev -c \"npx --yes serve -l 3000 --no-clipboard\"",
+  "build": "tinacms build && node scripts/build-data.js",
+  "build:data": "node scripts/build-data.js"
   },
   "keywords": [],
   "author": "",
